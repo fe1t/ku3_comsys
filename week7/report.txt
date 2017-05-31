@@ -1,0 +1,26 @@
+[[ Mutual Exclusion ]]
+
+:: SPECIFICATION ::
+    MacBook Air (13-inch, Mid 2012)
+    Processor: 1.8 GHz Intel Core i5
+    Memory: 8 GB 1600 MHz DDR3
+
+:: RESULT ::
+    FILE: 01all.nt
+    BUFFER: 1000 bytes
+    """
+    Searching...
+    Searching took 510.000000 seconds.
+    Found "<http://www.w3.org/2001/XMLSchema#string>" 2733259 times
+    """
+
+    FILE: 02all.nt
+    BUFFER: 1000 bytes
+    """
+    Searching...
+    Searching took 1100.000000 seconds.
+    Found "<http://www.w3.org/2001/XMLSchema#string>" 5466518 times
+    """
+
+
+[[ Producer & Comsumer ]]

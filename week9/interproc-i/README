@@ -1,0 +1,20 @@
+# Program1
+    $ gcc -pthread -o prob1 prob1.c
+    $ ./prob1
+
+# Program2
+    $ gcc -o prob2a prob2a.c
+    $ ./prob2a
+    $ gcc -o prob2b prob2b.c
+    $ ./prob2b
+    $ cat tt
+
+# Program3
+    $ gcc -pthread -o prob3a prob3a.c
+    $ ./prob3a DIRECTORY
+    $ gcc -pthread -o prob3b prob3b.c
+    $ ./prob3b DIRECTORY
+
+# Members
+    $ Nuttapol Laotichareon 5710500208
+    $ Nuttapon Thanitsukkan 5710501565

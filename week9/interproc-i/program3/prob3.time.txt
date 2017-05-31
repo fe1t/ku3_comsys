@@ -1,0 +1,7 @@
+$ time ./prob3a .
+7 files count!
+./prob3a .  0.00s user 0.00s system 0% cpu 0.003 total
+
+$ time ./prob3b . 
+7       7     107
+./prob3b .  0.00s user 0.00s system 0% cpu 0.004 total

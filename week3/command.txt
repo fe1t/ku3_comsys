@@ -1,0 +1,2 @@
+docker build -f Dockerfile -t opencv2 .
+docker run -it opencv2

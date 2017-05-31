@@ -1,0 +1,15 @@
+:: RUN TIME ::
+Program			100*100			1000*1000		10000*10000
+3.1. C			9.9892311049977		889.4592888304915	> 2 hrs
+3.2. Python		17.10819219727663	1598.23147146992	> 2 hrs
+3.3. Python-numpy	2.746076182281		501.69231486421		> 2 hrs
+* หมายเหตุ : เนื่องจาก 10000 * 10000 ใช้เวลานานมากๆ จึงขออนุญาตเขียนคำตอบแบบนี้นะครับ
+
+
+:: SPECIFICATION ::
+Macbook Air (13-inch, Mid 2012)
+1.8 GHz Intel Core i5
+Number of Processor 1
+Total Number of Cores 2
+8 GB 1600 MHz DDR3
+RUNNING ON macOS Seirra (10.12.3)

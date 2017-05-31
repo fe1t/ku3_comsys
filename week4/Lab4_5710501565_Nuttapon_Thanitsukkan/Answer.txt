@@ -1,0 +1,7 @@
+time = 1.5 * 10^-6 sec
+clock = 1.8 * 10^9 cycle/sec
+Instruction = 877 Instruction
+
+
+[FORMULA] CPI = time * clock / Instruction
+[ANSWER] -> CPI = 3.0786 cycle / Instruction

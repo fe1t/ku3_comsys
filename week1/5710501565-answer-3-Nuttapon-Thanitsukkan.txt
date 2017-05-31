@@ -1,0 +1,2 @@
+3.1) tr ' ' '\n' < lesms10.txt | grep -iEwc "(this|these)"
+3.2) sed 's/\bac\(\w\)*d\b//ig' lesms10.txt

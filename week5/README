@@ -1,0 +1,12 @@
+Nuttapon Thanitsukkan 5710501565
+
+:: Instructions :: 
+3.1 (C)
+gcc -shared -Wl,-soname,3.1 -o 3.1.so -fPIC 3.1.c
+python 3.1.py
+
+3.2 (python)
+python 3.2.py
+
+3.2 (python-numpy)
+python 3.3.py
